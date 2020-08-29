@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="book_appt">Book an Appointment</string>
+    <string name="confirm_appt">Confirm Your Appointment</string>
+    <string name="select_time">Select Time Slot</string>
+    <string name="lgout">Logout</string>
+    <string name="view1">View Risk Profile</string>
+    <string name="view2">Book Appointment</string>
+    <string name="txt_contact">Contact Details</string>
+    <string name="txt_street">Street Address</string>
+    <string name="txt_street1">Test Address</string>
+</resources>

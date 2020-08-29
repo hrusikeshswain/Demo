@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorAppt">#E7B521</color>
+    <color name="fontColor">#808285</color>
+    <color name="ColorCardviewbg">#DEDEE2</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorHeading">#25385C</color>
+    <color name="colorbg">#0094B5</color>
+    <color name="colorContactbg">#B6DFFF</color>
+</resources>
